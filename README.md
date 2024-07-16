@@ -11,12 +11,13 @@ conclusions:
  Rational Decision Making: Clear understanding of the rationality behind decision-making processes.
 
 dependencies:
-gym==0.21.0
-numpy
-torch
-imageio
-matplotlib
+- gym==0.21.0
+- numpy
+- torch
+- imageio
+- matplotlib
 
 
 References:
+https://github.com/kumarnikhil936/q_learning_mountain_car_openai
 
