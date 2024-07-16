@@ -20,5 +20,5 @@ dependencies:
 
 
 References:
-https://github.com/kumarnikhil936/q_learning_mountain_car_openai
-https://github.com/jaraujo98/SinglePartitionAdaptiveQLearning
+- https://github.com/kumarnikhil936/q_learning_mountain_car_openai
+- https://github.com/jaraujo98/SinglePartitionAdaptiveQLearning
